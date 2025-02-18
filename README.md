@@ -1,40 +1,31 @@
 # Laravel Quiz Demo
 
-## Table of Contents
+A Laravel-based quiz web application with user authentication, question management, and real-time scoring. The application allows administrators to manage users, quiz scores, questions, and answers, while users can participate in quizzes, receive real-time evaluations, and get score notifications via email. Designed for easy integration and customization.
 
-- [About the Project](#description)
-  * [Description](#description)
-  * [Tech Stack](#tech-Stack)
-- [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-  * [Run Locally](#run-locally)
+## 📋 Table of Contents
 
-## Description
+- [About](#user-content-beginner-about)
+- [Tech Stack](#user-content-️-tech-stack)
 
-A demo quiz application built with Laravel, featuring user authentication, question management, and real-time scoring. Designed for easy integration and customization.
+##  :beginner: About
 
-## Tech Stack
+The Live Halifax HRM Bus Tracker is a web app that displays real-time bus locations in Halifax Regional Municipality (HRM) using an interactive map. Key features include:
+
+**Admin Login**
+- Manage users and quiz scores
+- Create, update, and delete questions and answers
+
+**User Login**
+- Take quizzes and view results
+- Real-time quiz evaluation
+- Receive score emails after quiz completion
+
+The application is built using the Laravel framework, with a focus on user-friendly design and scalability, making it ideal for educational purposes or online quiz platforms.
+
+## 🛠️ Tech Stack
 
 * HTML
 * CSS
 * Javascript
 * PHP
 * Laravel
-
-## Getting Started
-
-### Prerequisites
-
-* PHP >= 8.0: Ensure PHP is installed and meets the minimum version requirement.
-* Composer: Dependency management tool for PHP to install Laravel and project dependencies.
-* Laravel >= 10
-
-### Installation
-
-* Clone project from Github repository
-* composer install or composer update
-
-### Run Locally
-
-* php artisan serve

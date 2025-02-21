@@ -29,3 +29,20 @@ The application is built using the Laravel framework, with a focus on user-frien
 * Javascript
 * PHP
 * Laravel
+
+## Installation
+
+Install or update composer
+
+```bash
+  composer install
+```
+```bash
+  composer update
+```
+
+## Run Project
+
+```bash
+  php artisan serve
+```

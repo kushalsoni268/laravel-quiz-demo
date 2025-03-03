@@ -6,6 +6,8 @@ A Laravel-based quiz web application with user authentication, question manageme
 
 - [About](#user-content-beginner-about)
 - [Tech Stack](#user-content-️-tech-stack)
+- [Installation](#user-content-️-installation)
+- [Run Project](#user-content--run-project)
 
 ##  :beginner: About
 
@@ -30,7 +32,7 @@ The application is built using the Laravel framework, with a focus on user-frien
 * PHP
 * Laravel
 
-## Installation
+## ⚙️ Installation
 
 Install or update composer
 
@@ -41,7 +43,7 @@ Install or update composer
   composer update
 ```
 
-## Run Project
+## 🚀 Run Project
 
 ```bash
   php artisan serve
